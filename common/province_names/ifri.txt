@@ -1,3 +1,68 @@
+# RULES
+# -ia -> -ea
+# -io -> -eo
+# -ium -> -eon
+# long o/u -> ou
+# e -> a
+# c -> k
+# w/b -> v
+# i- -> hi-
+# ph -> f
+# l -> ll
+# Format: ID = { "Province" "Capital" } # Origin
+
+## ITALY 
+
+# Eastern Sicily
+126 = { "Malita" "Malita" } # Meliti
+2982 = { "Siraquzah" "Siraquzah" } # Syracusa
+124 = { "Masina" "Masina" } # Messana
+
+# Western Sicily
+4737 = { "Akriganton" "Akriganton" } # Akragas
+4736 = { "Trepaneon" "Trepaneon" } # Drepanon
+125 = { "Panormous" "Panormous" } # Panormos
+
+# Calabria
+1934 = { "Loukanea" "Potentea" } # Lucania, Potentia
+2984 = { "Kousentea" "Kousentea" } # Consentia
+123 = { "Kalavrea" "Regeon" } # Calabria, Rhigion/Reggium
+
+# Apulia
+122 = { "Sallentou" "Tarentous" } # Sallentium, Tarantos
+1933 = { "Vareon" "Vareon" } # Barion
+2985 = { "Foukeas" "Foukeas" } # Phocaea/Focias
+4733 = { "Moulizeon" "Kampovason" } # Molisium, Campobasum
+
+# Campania
+4734 = { "Auellinon" "Auellinon" } # Avellinum
+2983 = { "Sallerneon" "Sallerneon" } # Salernum
+121 = { "Neapoles" "Neapoles" } # Neapolis
+
+# Marche-Abruzzo
+119 = { "Aprouzeon" "Ameternon" } # Aprutium, Amiternum
+2977 = { "Hourbenon" "Hourbenon" } # Urbinum
+120 = { "Ankouna" "Ankouna" } # Ankon
+
+# Lazio-Umbria
+118 = { "Roumi" "Roumi" } # Rhomi
+2976 = { "Perouzea" "Perouzea" } # Perusia
+4732 = { "Terrakenon" "Terrakenon" } # Tarracina
+4731 = { "Spouleteon" "Spouleteon" } # Spoletium
+
+# Tuscany
+117 = { "Senna" "Senna" } # Saena
+116 = { "Flourenzea" "Flourenzea" } # Florentia
+115 = { "Piza" "Piza" } # Pisa
+2978 = { "Harezeon" "Harezeon" } # Arretium
+2980 = { "Louka" "Louka" } # Lucca
+
+# Tyrrhenian Isles
+127 = { "Touris" "Touris" } # Turris
+2986 = { "Karales" "Karales" } # Caralis
+4735 = { "Thares" "Thares" } # Tharros
+1247 = { "Koursika" "Allea" } # Corsica, Alalia
+
 ## FRANCE
 
 # normandy_area
@@ -144,60 +209,6 @@
 # north_brabant_area
 95 = { "Barida" "Barida" }
 1742 = { "Liamburugh" "Liamburugh" }
-
-## ITALY
-
-# venetia_area
-108 = { "Fiyruna" "Fiyruna" }
-111 = { "Faryuly" "Faryuly" }
-112 = { "al-Bunduqia" "al-Bunduqia" }
-1774 = { "Tryfizu" "Tryfizu" }
-
-# lombardy_area
-104 = { "Milanu" "Milanu" }
-1862 = { "Kariuna" "Kariuna" }
-
-# piedmont_area
-103 = { "Bidmunt" "Bidmunt" }
-1875 = { "Kuniu" "Kuniu" }
-
-# tuscany_area
-115 = { "Bayza" "Bayza" }
-116 = { "Flurnsa" "Flurnsa" }
-117 = { "Siinaan" "Siinaan" }
-
-# liguria_area
-101 = { "Janwa" "Janwa" }
-102 = { "al-Nis" "al-Nis" }
-
-# corsica_sardinia_area
-127 = { "Qaliari" "Qaliari" }
-1247 = { "Kursika" "Kursika" }
-
-# sicily_area
-124 = { "Massina" "Massina" }
-126 = { "Maltaan" "Maltaan" }
-
-# western_sicily_area
-125 = { "Balarm" "Balarm" }
-
-# naples_area
-121 = { "Nabuli" "Nabuli" }
-
-# lazio_area
-118 = { "Ruma" "Ruma" }
-
-# calabria_area
-123 = { "Rivah" "Rivah" }
-1934 = { "Lawkania" "Lawkania" }
-
-# apulia_area
-122 = { "Salntu" "Salntu" }
-1933 = { "Bari" "Bari" }
-
-# central_italy_area
-119 = { "Ankuna" "Ankuna" }
-120 = { "Abrutsu" "Abrutsu" }
 
 ## NORTH_GERMAN
 
